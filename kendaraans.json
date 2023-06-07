@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "63552db2e9f8b3d0d692dc53"
+  },
+  "merek": "Honda",
+  "suspensi": "Mono shock",
+  "transmisi": "manual",
+  "tahun": 2020,
+  "warna": "Hitam",
+  "harga": 25000000,
+  "jenis": "Sepeda Motor",
+  "mesin": "150cc"
+},{
+  "_id": {
+    "$oid": "63552e81e9f8b3d0d692dc54"
+  },
+  "jenis": "Mobil",
+  "merek": "Toyota",
+  "mesin": "1500cc",
+  "penumpang": 7,
+  "tipe": "MPV",
+  "tahun": 2020,
+  "warna": "Silver",
+  "harga": 240000000
+},{
+  "_id": {
+    "$oid": "635545e8ca25a70c220cf715"
+  },
+  "jenis": "Sepeda Motor",
+  "merek": "Suzuki",
+  "mesin": "140cc",
+  "suspensi": "Dual shock",
+  "transmisi": "Manual",
+  "tahun": "2020",
+  "warna": "Merah",
+  "harga": "27000000",
+  "penumpang": null,
+  "tipe": null,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666532840788"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1666532840788"
+    }
+  }
+}]
